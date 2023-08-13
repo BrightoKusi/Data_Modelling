@@ -33,8 +33,3 @@ customer_id VARCHAR REFERENCES dim_customers (id),
 
 
 
-
-
-
-);
-CREATE TABLE dim_
